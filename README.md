@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Cats-ja
+- 👀 I’m interested in data science.
+- 🌱 I’m currently learning about python, SQL and obviously data science.
